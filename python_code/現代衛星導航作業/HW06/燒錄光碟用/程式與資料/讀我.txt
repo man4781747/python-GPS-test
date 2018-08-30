@@ -1,0 +1,15 @@
+先執行
+stable_station_position&data_output.py
+處理基站資料以及輸出基站資本資料
+
+
+再執行
+HW05_allforone.py
+後可輸出各測試站的各項數據
+
+end_data_readandplt.py
+輸出整理後資料
+
+smooth_compare.py
+為smooth後的資料圖形化
+

@@ -1,0 +1,8 @@
+運算minyangTEC輸出mat檔的轉換
+執行順序範例:
+1. 
+Example不分站: python3.5 minyangTEC2other_command_do.py 15 15 60 80 30 all
+Example分站: python3.5 minyangTEC2other_command_do.py 15 15 60 80 30 aknd
+
+2.
+mpirun -np 36 -f host_test python3.5 Dothe_minyangTEC2other_command.py
